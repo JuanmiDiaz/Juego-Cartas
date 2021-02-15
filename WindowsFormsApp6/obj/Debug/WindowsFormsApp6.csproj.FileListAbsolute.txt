@@ -1,0 +1,36 @@
+C:\Users\acard\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\acard\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\acard\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\acard\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\acard\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\acard\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\acard\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\acard\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\acard\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\JuanMiguelDiazGonzal\Desktop\Ejercicio de las cartas Antonio\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\JuanMiguelDiazGonzal\Desktop\Ejercicio de las cartas Antonio\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\JuanMiguelDiazGonzal\Desktop\Ejercicio de las cartas Antonio\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\JuanMiguelDiazGonzal\Desktop\Ejercicio de las cartas Antonio\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\JuanMiguelDiazGonzal\Desktop\Ejercicio de las cartas Antonio\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\JuanMiguelDiazGonzal\Desktop\Ejercicio de las cartas Antonio\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\JuanMiguelDiazGonzal\Desktop\Ejercicio de las cartas Antonio\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\JuanMiguelDiazGonzal\Desktop\Ejercicio de las cartas Antonio\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\JuanMiguelDiazGonzal\Desktop\Ejercicio de las cartas Antonio\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\JuanMiguelDiazGonzal\source\repos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\JuanMiguelDiazGonzal\source\repos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\JuanMiguelDiazGonzal\source\repos\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\JuanMiguelDiazGonzal\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\JuanMiguelDiazGonzal\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\JuanMiguelDiazGonzal\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\JuanMiguelDiazGonzal\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\JuanMiguelDiazGonzal\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\JuanMiguelDiazGonzal\source\repos\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\JuanMiguel\Desktop\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\JuanMiguel\Desktop\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\JuanMiguel\Desktop\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\JuanMiguel\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csprojAssemblyReference.cache
+C:\Users\JuanMiguel\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\JuanMiguel\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\JuanMiguel\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\JuanMiguel\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\JuanMiguel\Desktop\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
